@@ -1,11 +1,10 @@
 # 🧠💰 FinMind AI+
 
-O **FinMind AI+** é um aplicativo de controle financeiro desenvolvido em Flutter (Dart), focado em organização pessoal e familiar. Ele permite gerenciar receitas, despesas, metas financeiras e acompanhar a saúde financeira de forma simples e inteligente.
+O **FinMind AI+** é um aplicativo de controle financeiro desenvolvido em Flutter (Dart), focado na organização pessoal e familiar. Ele permite gerenciar receitas, despesas, metas financeiras e acompanhar a saúde financeira de forma simples, intuitiva e eficiente.
 
 ---
 
 ## 📱 Preview
-
 
 
 ---
@@ -13,11 +12,53 @@ O **FinMind AI+** é um aplicativo de controle financeiro desenvolvido em Flutte
 ## 🚀 Funcionalidades
 
 * 🔐 Sistema de autenticação (Login e Cadastro)
-* 💸 Registro de transações (receitas e despesas)
+* 💸 Registro de receitas e despesas
 * 📊 Dashboard com visão geral financeira
-* 🎯 Definição e acompanhamento de metas
+* 🎯 Criação e acompanhamento de metas
 * 👨‍👩‍👧‍👦 Controle financeiro familiar
-* 📅 Organização e histórico de movimentações
+* 📅 Histórico de transações
+
+---
+
+## 📱 Estrutura do Aplicativo (MVP)
+
+O projeto foi desenvolvido seguindo o conceito de MVP (Minimum Viable Product), focando nas principais funcionalidades:
+
+* Login e Cadastro de usuários
+* Dashboard financeiro
+* Gestão de transações
+* Metas financeiras
+* Controle financeiro familiar
+
+---
+
+## 🧭 Navegação
+
+O aplicativo utiliza **Bottom Navigation Bar** para facilitar o acesso às principais áreas:
+
+* 🏠 Dashboard
+* 💸 Transações
+* 🎯 Metas
+* 👨‍👩‍👧‍👦 Familiar
+
+---
+
+## 📊 Dashboard
+
+O dashboard centraliza as principais informações do usuário:
+
+* Saldo total
+* Resumo de receitas e despesas
+* Gráfico de gastos
+* Últimas transações
+
+---
+
+## 🎨 Design e Experiência
+
+* Interface simples e intuitiva
+* Cores semânticas (verde para receitas, vermelho para despesas)
+* Foco na clareza e organização das informações
 
 ---
 
@@ -26,11 +67,10 @@ O **FinMind AI+** é um aplicativo de controle financeiro desenvolvido em Flutte
 * Flutter
 * Dart
 * PostGres
-  
+
 ---
 
 ## ▶️ Como executar o projeto
-
 
 
 ---
@@ -40,24 +80,28 @@ O **FinMind AI+** é um aplicativo de controle financeiro desenvolvido em Flutte
 
 ---
 
-## 📌 Funcionalidades futuras
+## 📌 Melhorias futuras
 
 * [ ] Integração com IA para sugestões financeiras
 * [ ] Backup em nuvem
 * [ ] Notificações inteligentes
 
+---
+
+## 🚧 Status do Projeto
+
+✅ MVP funcional
+🚀 Em desenvolvimento e evolução contínua
 
 ---
 
-## 🎯 Objetivo do projeto
+## 🎯 Objetivo
 
-O FinMind AI+ foi criado com o objetivo de facilitar o controle financeiro pessoal e familiar, promovendo organização, planejamento e melhor tomada de decisões financeiras.
+O objetivo do **FinMind AI+** é ajudar usuários a terem mais controle sobre suas finanças, promovendo organização, planejamento e melhores decisões financeiras no dia a dia.
 
 ---
 
 ## 👤 Autor
 
-Murilo Viana
-Erick Silva
-
-
+* **Murilo Viana**
+* **Erick Silva**
