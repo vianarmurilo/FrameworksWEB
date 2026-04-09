@@ -109,3 +109,17 @@ Testes de API:
 - Validacao manual: docs/backend/03-validacao-manual.md
 - Banco Prisma Dev: docs/backend/04-prisma-dev-db.md
 - Deploy e producao: docs/backend/05-deploy-producao.md
+
+## Preview
+![WhatsApp Image 2026-04-09 at 19 30 13](https://github.com/user-attachments/assets/0d7bf44f-0925-479f-b3d9-a37cfd5d19f9)
+![WhatsApp Image 2026-04-09 at 19 30 25](https://github.com/user-attachments/assets/9da0fa33-6a10-4f4f-a035-e8f0403cd56c)
+![WhatsApp Image 2026-04-09 at 19 28 56](https://github.com/user-attachments/assets/f0469b19-cf81-45e4-bfc9-a55e93855a56)
+![WhatsApp Image 2026-04-09 at 19 29 13](https://github.com/user-attachments/assets/0a08738a-de2c-4f49-ae5c-bca435036c61)
+![WhatsApp Image 2026-04-09 at 19 29 26](https://github.com/user-attachments/assets/2e535f26-ac76-486c-9f01-44bde35d953c)
+![WhatsApp Image 2026-04-09 at 19 29 56](https://github.com/user-attachments/assets/745aff36-f73b-40c2-b985-c26d79693e9a)
+
+
+
+
+
+
